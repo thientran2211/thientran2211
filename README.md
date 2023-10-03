@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋
+
+🌍 I lived in Ho Chi Minh, VietNam.
+👨‍💻 I am studying to become a web developer.
+💪 I like learning new things and developing myself.
+✉  You can contact me at thienforever2211@gmail.com
 
 <!--
 **thientran2211/thientran2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
