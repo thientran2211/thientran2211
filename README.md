@@ -1,8 +1,8 @@
 Hi there 👋
 
-🌍 I lived in Ho Chi Minh, VietNam.
-👨‍💻 I am studying to become a web developer.
-💪 I like learning new things and developing myself.
+🌍 I lived in Ho Chi Minh, VietNam.<br />
+👨‍💻 I am studying to become a web developer.<br />
+💪 I like learning new things and developing myself.<br />
 ✉  You can contact me at thienforever2211@gmail.com
 
 <!--
